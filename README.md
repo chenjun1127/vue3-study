@@ -22,7 +22,7 @@ Vue3.x中的组件模板属于该组件，有时候我们想把模板的内容�
 ```
 <!--表示teleport内包含的内容显示到body中-->
 <teleport to="body">
-	内容
+  内容
 </teleport>
 ```
 #### Composition API的简单介绍
